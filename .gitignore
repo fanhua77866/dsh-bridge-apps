@@ -1,0 +1,45 @@
+# Android
+*.apk
+*.aab
+build/
+.gradle/
+local.properties
+*.iml
+.idea/
+captures/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
+
+# 运行时数据
+bridge-state.json
+config.json
+inbox/
+uploads/
+*.wav
+!apps/*/screenshots/*.png
+!apps/voice/app/src/main/assets/**/*.txt
+
+# 模型/语音数据（体积大、含隐私）
+assets/models/*/
+apps/recorder/asr/models/
+*.onnx
+*.pth
+*.onnx.data
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 构建产物
+app-debug.apk
+releases/
+
+# 第三方二进制/模型
+*.aar
+apps/voice/app/src/main/assets/model*/
+apps/voice/app/libs/*.aar

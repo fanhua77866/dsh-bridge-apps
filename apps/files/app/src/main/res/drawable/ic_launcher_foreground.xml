@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 背景卡片 -->
+    <path
+        android:fillColor="#122238"
+        android:pathData="M22,20 h64 a12,12 0 0 1 12,12 v44 a12,12 0 0 1 -12,12 h-64 a12,12 0 0 1 -12,-12 v-44 a12,12 0 0 1 12,-12 z" />
+    <!-- 文件夹 -->
+    <path
+        android:fillColor="#2F6FED"
+        android:pathData="M28,42 h20 l6,6 h26 a5,5 0 0 1 5,5 v16 a5,5 0 0 1 -5,5 h-52 a5,5 0 0 1 -5,-5 v-22 a5,5 0 0 1 5,-5 z" />
+    <!-- 下载箭头 -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M54,48 v13 M46.5,55 l7.5,7.5 l7.5,-7.5" />
+</vector>

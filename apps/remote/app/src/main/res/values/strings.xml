@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DSH 遥控</string>
+    <string name="channel_status">连接状态</string>
+    <string name="channel_status_desc">显示手机与电脑端桥接器的连接状态</string>
+    <string name="action_stop">断开</string>
+</resources>

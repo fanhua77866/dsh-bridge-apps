@@ -1,0 +1,10 @@
+{
+  "listen_host": "0.0.0.0",
+  "listen_port": 8799,
+  "workspace": "D:\\work",
+  "upload_dir": "D:\\work\\手机上传",
+  "pin": "000000",
+  "spawn": false,
+  "attach": "",
+  "inject_mobile": false
+}
